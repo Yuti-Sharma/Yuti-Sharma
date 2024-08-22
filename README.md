@@ -15,7 +15,7 @@ I’m a final-year Software Engineering student at Jaipur Engineering College an
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" alt="HTML"/> HTML
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" alt="CSS"/> CSS
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" height="24" alt="React"/> React
-   <img src="https://www.dreamstime.com/head-puzzle-icon-creative-think-mind-intelligence-symbol-simple-style-infographic-element-web-design-image191943211" width="24" height="24" alt="DSA"/>Data Structure and Algorithms
+   <img src="https://github.com/user-attachments/assets/04519dc8-194e-43fe-8938-cb481dac7a9f" width="24" height="24" alt="DSA"/>Data Structure and Algorithms
 
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
 - **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
