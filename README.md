@@ -4,12 +4,12 @@
 
 ## 🚀 About Me
 
-I’m a final-year Software Engineering student at Jaipur Engineering College and Research Centre (JECRC). I am a research enthusiast committed to leveraging my programming skills and understanding of computer science fundamentals. I have a strong passion for software, web development, and AI and want to contribute meaningfully to innovative projects.
+I’m a final-year Software Engineering student at Jaipur Engineering College and Research Centre (JECRC). I am a research enthusiast committed to leveraging my programming skills and understanding of computer science fundamentals. I am passionate about software, web development, and AI and want to contribute meaningfully to innovative projects.
 
 ## 🧑‍💻 Technical Skills
 
 - **Languages:** C, C++ (VSCode), Python, HTML, CSS, JavaScript, React
-- ![Skills Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
+ ![Skills Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif/200*200)
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
 - **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
 
