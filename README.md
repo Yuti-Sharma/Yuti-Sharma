@@ -8,23 +8,21 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Vinayak Mittal</h1>
+<h1 align="center">Hello 👋, I'm Yuti Sharma</h1>
 
-# Machine Learner | Web Developer | BTech Student
+ | Web Developer | BTech Student
 
-- 👨‍🎓 BTech in Information Technology | 3rd year 
-- 💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense)
+- 👨‍🎓 BTech in Computer Science | 4rd year 
 - 📚 Machine Learning Enthusiast
 - 🌐 Passionate about AI, Data Science, and Computer Vision
 
 ## About Me
-I'm a passionate machine learning and web development enthusiast currently pursuing my BTech degree in Information Technology at JECRC College. I love experimenting with data, building web applications and also worked for Ministry of defence (DRDO). Feel free to connect and collaborate!
+I'm a passionate machine learning and web development enthusiast currently pursuing my BTech degree in Computer Science Engineering at JECRC College. I love experimenting with data, building web applications and also worked for Ministry of defence (DRDO). Feel free to connect and collaborate!
 
 <img align="right" src="pic.avif" height="311" width="390">
 
 ## Skills
 
-- 🤖 Machine Learning
 - 🌐 Web Development
 - 💻 Python, JavaScript, HTML, CSS
 - 📈 Data Analysis
