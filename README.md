@@ -44,7 +44,6 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 - **Qualified GATE-2024**
 
 ## 📈 Experience
-[![CT]()
 - **React JS Intern - Celebal Technologies** (June 2024 - Aug 2024)
   
   - Developed and maintained user interfaces for web applications using ReactJS, enhancing functionality and user experience.
@@ -58,7 +57,8 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma) &nbsp;&nbsp;
+[![Gmail](![image](https://github.com/user-attachments/assets/afb2a877-a91b-45b3-8b2e-baf6818078c6)](yutisharma42@gmail.com) &nbsp;&nbsp;
 
 ---
 
