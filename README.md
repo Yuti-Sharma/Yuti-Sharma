@@ -18,22 +18,22 @@ I’m a final-year Software Engineering student at Jaipur Engineering College an
    <img src="https://github.com/user-attachments/assets/04519dc8-194e-43fe-8938-cb481dac7a9f" width="24" height="24" alt="DSA"/>Data Structure and Algorithms
 
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
-- **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
+- **Tools & Technologies:** GitLab CI/CD, VSCode, DevOps, Cloud Computing
 
 ## 🌟 Projects
 
 ### [AYUR TECH](#) 
-![Project Image]() <!-- Replace with your project image link -->
+<!-- Replace with your project image link -->
 
 Developed a web page for SIH’2023 in collaboration with the Ministry of AYUSH. AyurAI is a sophisticated software solution designed to revolutionize the field of Ayurveda. **(Technologies: ML models, ReactJS, NodeJS)**
 
 ### [FARMY](#)
-![Project Image]() <!-- Replace with your project image link -->
+<!-- Replace with your project image link -->
 
 Developed a dynamic web page for the Smart City Hackathon, addressing harsh weather conditions impacting farmers and focusing on enhancing crop yield. **(Technologies: HTML5, JavaScript, third-party weather APIs)**
 
 ### [HOMIES](#)
-![Project Image]() <!-- Replace with your project image link -->
+ <!-- Replace with your project image link -->
 
 Developed a web page for the Ministry of TOURISM as part of SIH’22, establishing a robust Homestay Ecosystem at the community level. **(Technologies: HTML, CSS, ReactJS, Firefox)**
 
@@ -44,8 +44,9 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 - **Qualified GATE-2024**
 
 ## 📈 Experience
-
+[![CT]()
 - **React JS Intern - Celebal Technologies** (June 2024 - Aug 2024)
+  
   - Developed and maintained user interfaces for web applications using ReactJS, enhancing functionality and user experience.
 
 - **Software Engineer Trainee - JP Morgan Chase** (Aug 2023 - Sept 2023)
@@ -63,6 +64,6 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yutisharma&color=brightgreen) <!-- Add your GitHub username -->
 
-![Footer GIF](https://via.placeholder.com/800x150) <!-- Replace with your footer GIF link -->
+![Footer GIF](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzNTU2MzIsIm5iZiI6MTcyNDM1NTMzMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDE5MzUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYjc5MThhNGY4Zjc1NmIyNDJlYzgyMGU0Mzg5YmY2NDc3NzkwMzAxZGQ4NWRkMzQ2NDY2YjM2ODAwMmNhYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ff7dsY8zjz6R7iS2F3LTqyiPigWRUavWm9xr2LWrHJA) <!-- Replace with your footer GIF link -->
 
 
