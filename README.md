@@ -10,12 +10,12 @@ I’m a final-year Software Engineering student at Jaipur Engineering College an
 
 - **Languages:** 
   <img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24" alt="Python"/> Python &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width="24" height="24" alt="C++"/> C++
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24" alt="JavaScript"/> JavaScript
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" alt="HTML"/> HTML
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" alt="CSS"/> CSS
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" height="24" alt="React"/> React
-   <img src="https://github.com/user-attachments/assets/04519dc8-194e-43fe-8938-cb481dac7a9f" width="24" height="24" alt="DSA"/>Data Structure and Algorithms
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width="24" height="24" alt="C++"/> C++ &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24" alt="JavaScript"/> JavaScript &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" alt="HTML"/> HTML &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" alt="CSS"/> CSS &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" height="24" alt="React"/> React &nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/04519dc8-194e-43fe-8938-cb481dac7a9f" width="24" height="24" alt="DSA"/>Data Structure and Algorithms &nbsp;&nbsp;
 
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
 - **Tools & Technologies:** GitLab CI/CD, VSCode, DevOps, Cloud Computing
@@ -57,7 +57,7 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma)
 
 ---
