@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuti Sharma
 
-![Banner Image](https://via.placeholder.com/1000x200) <!-- Replace with your banner image link -->
+![Banner Image](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif) <!-- Replace with your banner image link -->
 
 ## 🚀 About Me
 
