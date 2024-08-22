@@ -8,7 +8,7 @@ I’m a final-year Software Engineering student at Jaipur Engineering College an
 
 ## 🧑‍💻 Technical Skills
 
-- **Languages:** C, C++ (VSCode), Python, HTML, CSS, JavaScript, React
+- **Languages:** 
   <img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24" alt="Python"/> Python
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width="24" height="24" alt="C++"/> C++
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24" alt="JavaScript"/> JavaScript
