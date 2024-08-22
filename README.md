@@ -1,56 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuti Sharma
 
-<p align="center">
-  <a href="https://vinayakmittal.io">
-    <img src="banner.gif" alt="MasterHead" width="70%">
-  </a>
-</p>
+![Banner Image](https://via.placeholder.com/1000x200) <!-- Replace with your banner image link -->
+
+## 🚀 About Me
+
+I’m a final-year Software Engineering student at Jaipur Engineering College and Research Centre (JECRC), Jaipur. With a strong passion for machine learning, web development, and AI, I'm committed to leveraging my programming skills and understanding of computer science fundamentals to contribute meaningfully to innovative projects.
+
+## 🧑‍💻 Technical Skills
+
+- **Languages:** C, C++ (VSCode), Python, HTML, CSS, JavaScript, React
+- **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
+- **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
+
+## 🌟 Projects
+
+### [AYUR TECH](#) 
+![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+
+Developed a web page for SIH’2023 in collaboration with the Ministry of AYUSH. AyurAI is a sophisticated software solution designed to revolutionize the field of Ayurveda. **(Technologies: ML models, ReactJS, NodeJS)**
+
+### [FARMY](#)
+![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+
+Developed a dynamic web page for the Smart City Hackathon, addressing harsh weather conditions impacting farmers and focusing on enhancing crop yield. **(Technologies: HTML5, JavaScript, third-party weather APIs)**
+
+### [HOMIES](#)
+![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+
+Developed a web page for the Ministry of TOURISM as part of SIH’22, establishing a robust Homestay Ecosystem at the community level. **(Technologies: HTML, CSS, ReactJS, Firefox)**
+
+## 🏆 Achievements
+
+- **[METAVERSE (Review Paper)](#):** Published a review paper at the 4th National Conference on Information & Security Applications as the first author.
+- **[SAFETIFY (Patent)](#):** Pioneered a patent (Ref.No: IGEN-1029) for an innovative women’s safety bracelet.
+- **Qualified GATE-2024**
+
+## 📈 Experience
+
+- **React JS Intern - Celebal Technologies** (June 2024 - Aug 2024)
+  - Developed and maintained user interfaces for web applications using ReactJS, enhancing functionality and user experience.
+
+- **Software Engineer Trainee - JP Morgan Chase** (Aug 2023 - Sept 2023)
+  - Participated in an intensive job simulation program tailored to finance & technology.
+
+- **DevOps and Cloud Computing Trainee - UpFlairs Pvt Ltd.** (Aug 2022 - Oct 2022)
+  - Spearheaded the implementation of automated deployment pipelines, accelerating software updates.
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yutisharma&color=brightgreen) <!-- Add your GitHub username -->
+
+![Footer GIF](https://via.placeholder.com/800x150) <!-- Replace with your footer GIF link -->
 
 
-
-<h1 align="center">Hello 👋, I'm Yuti Sharma</h1>
-
- | Web Developer | BTech Student
-
-- 👨‍🎓 BTech in Computer Science | 4rd year 
-- 📚 Machine Learning Enthusiast
-- 🌐 Passionate about AI, Data Science, and Computer Vision
-
-## About Me
-I'm a passionate machine learning and web development enthusiast currently pursuing my BTech degree in Computer Science Engineering at JECRC College. I love experimenting with data, building web applications and also worked for Ministry of defence (DRDO). Feel free to connect and collaborate!
-
-<img align="right" src="pic.avif" height="311" width="390">
-
-## Skills
-
-- 🌐 Web Development
-- 💻 Python, JavaScript, HTML, CSS
-- 📈 Data Analysis
-- 🧩 Data Structures & Algorithms
-- 🖥️ Responsive Design
-- ⚙️ Git & Version Control
-
-## Projects
-
-### Project 1:AyurTech 
-- Description: Developed a machine learning model  to suggest the ayurvedic drug according to the disease.
-- Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/AyurTech)
-
-### Project 2: Farmy
-- Description: A basic frontend website for farmers Created in Smart City Hackathon.
-- Repository: [Project 2 Repository](https://github.com/Vinayak-Mittal/Farmy_website)
-
-### Project 3: WattWatch
-- Description: Estimating the return on investment (ROI) or cost of installed solar panels in a house using machine learning involves predicting the savings or revenue generated from the solar panels over time compared to the initial installation costs.
-- Repository: [Project 3 Repository](https://github.com/Vinayak-Mittal/WattWatch)
-
-  ### Project 4: Python-Projects
-- Description: Welcome to the Python Projects repository! This repository contains various Python projects demonstrating different aspects of Python programming. Each project is self-contained and showcases unique features and functionalities.
-- Repository: [Project 4 Repository](https://github.com/Vinayak-Mittal/Python-Project)
-
-## Contact
-
-- 📧 Email: vinayakmittal2003@gmail.com
-- 🌐 LinkedIn:(www.linkedin.com/in/vinayak1211)
-  
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect!
