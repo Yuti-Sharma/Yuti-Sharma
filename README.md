@@ -9,7 +9,7 @@ I’m a final-year Software Engineering student at Jaipur Engineering College an
 ## 🧑‍💻 Technical Skills
 
 - **Languages:** C, C++ (VSCode), Python, HTML, CSS, JavaScript, React
- ![Skills Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif/200*200)
+ ![Skills Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif/100x200))
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
 - **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
 
