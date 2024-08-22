@@ -4,28 +4,29 @@
 
 ## 🚀 About Me
 
-I’m a final-year Software Engineering student at Jaipur Engineering College and Research Centre (JECRC), Jaipur. With a strong passion for machine learning, web development, and AI, I'm committed to leveraging my programming skills and understanding of computer science fundamentals to contribute meaningfully to innovative projects.
+I’m a final-year Software Engineering student at Jaipur Engineering College and Research Centre (JECRC). I am a research enthusiast committed to leveraging my programming skills and understanding of computer science fundamentals. I have a strong passion for software, web development, and AI and want to contribute meaningfully to innovative projects.
 
 ## 🧑‍💻 Technical Skills
 
 - **Languages:** C, C++ (VSCode), Python, HTML, CSS, JavaScript, React
+- ![Skills Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 - **Core Subjects:** Data Structures, DBMS, OOPs, Operating Systems
 - **Tools & Technologies:** Jenkins, GitLab CI/CD, Travis CI, DevOps, Cloud Computing
 
 ## 🌟 Projects
 
 ### [AYUR TECH](#) 
-![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+![Project Image]() <!-- Replace with your project image link -->
 
 Developed a web page for SIH’2023 in collaboration with the Ministry of AYUSH. AyurAI is a sophisticated software solution designed to revolutionize the field of Ayurveda. **(Technologies: ML models, ReactJS, NodeJS)**
 
 ### [FARMY](#)
-![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+![Project Image]() <!-- Replace with your project image link -->
 
 Developed a dynamic web page for the Smart City Hackathon, addressing harsh weather conditions impacting farmers and focusing on enhancing crop yield. **(Technologies: HTML5, JavaScript, third-party weather APIs)**
 
 ### [HOMIES](#)
-![Project Image](https://via.placeholder.com/600x300) <!-- Replace with your project image link -->
+![Project Image]() <!-- Replace with your project image link -->
 
 Developed a web page for the Ministry of TOURISM as part of SIH’22, establishing a robust Homestay Ecosystem at the community level. **(Technologies: HTML, CSS, ReactJS, Firefox)**
 
