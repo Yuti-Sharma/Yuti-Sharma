@@ -58,12 +58,12 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma) &nbsp;&nbsp;
-[![Gmail](https://github.com/user-attachments/assets/afb2a877-a91b-45b3-8b2e-baf6818078c6)](yutisharma42@gmail.com) &nbsp;&nbsp;
+
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yutisharma&color=brightgreen) <!-- Add your GitHub username -->
 
-![Footer GIF](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzNTU2MzIsIm5iZiI6MTcyNDM1NTMzMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDE5MzUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYjc5MThhNGY4Zjc1NmIyNDJlYzgyMGU0Mzg5YmY2NDc3NzkwMzAxZGQ4NWRkMzQ2NDY2YjM2ODAwMmNhYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ff7dsY8zjz6R7iS2F3LTqyiPigWRUavWm9xr2LWrHJA) <!-- Replace with your footer GIF link -->
+![Footer GIF](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MzkxNzgsIm5iZiI6MTcyNDQzODg3OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDE4NDc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhMDEwYmUzMzI3N2UzYzdkYjM4ZTQwMWEyY2NkMTc1NWNlZDk0N2ZjMWMxZTM3NDkxZmFmYmMzNzZlMWE1ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3B7IhQcy0YzlybLQzxqsh6WF6rvstVksqQIYGXwW2Kc) <!-- Replace with your footer GIF link -->
 
 
