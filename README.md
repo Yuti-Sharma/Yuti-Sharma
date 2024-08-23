@@ -56,7 +56,7 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuti-sharma/) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yutisharma/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma) &nbsp;&nbsp;
 
 
