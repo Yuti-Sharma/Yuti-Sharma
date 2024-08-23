@@ -58,6 +58,7 @@ Developed a web page for the Ministry of TOURISM as part of SIH’22, establishi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yutisharma/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yutisharma) &nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yutisharma42@gmail.com)
 
 
 ---
